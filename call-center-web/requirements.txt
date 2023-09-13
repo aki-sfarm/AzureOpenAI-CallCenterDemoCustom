@@ -1,0 +1,9 @@
+Flask==2.2.5
+Flask-Cors==3.0.10
+Flask-Session==0.4.0
+openai==0.27.0
+azure.identity==1.13.0
+azure.ai.textanalytics==5.2.1
+azure-storage-queue==12.1.5
+azure-cosmos==4.2.0
+azure-identity==1.13.0
